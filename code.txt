@@ -1,2 +1,4 @@
 hello world
- xin chao nguyen phuc thinh
+xin chao nguyen phuc thinh
+xin chao truong ngoc tri
+
